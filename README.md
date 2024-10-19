@@ -20,7 +20,7 @@ cargo install cargo-generate
 Then instantiate this template:
 
 ```bash
-cargo generate --git https://github.com/BerandaMegane/rust-atmega-template.git
+cargo generate --git https://github.com/BerandaMegane/rust-atmega328p-template.git
 ```
 
 and see a blinky flashed to your board!
